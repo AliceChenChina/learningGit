@@ -1,0 +1,23 @@
+new file  by vi edit
+:wq
+new file  by vi edit
+:wq
+new file  by vi edit
+:wq
+new file  by vi edit
+:wq
+new file  by vi edit
+:wq
+new file  by vi edit
+:wq
+new file  by vi edit
+:wq
+new file  by vi edit
+:wq
+new file  by vi edit
+:wq
+new file  by vi edit
+:wq
+new file  by vi edit
+:wq
+
